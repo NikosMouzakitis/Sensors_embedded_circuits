@@ -1,3 +1,3 @@
 
 # PIR sensor and Arduino
-![img](https://github.com/NikosMouzakitis/Sensors_embedded_circuits/commit/5b0e433c6cc78a17a8b7747b8b285e0ad2f31f3e)
+![img](https://github.com/NikosMouzakitis/Sensors_embedded_circuits/blob/main/PIR_sensor/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%20(20).png)
